@@ -1,0 +1,9 @@
+1 - Desafio 2 - Login e-mail incorreto
+
+Dado que o usuário acesse a página de login 
+Quando preencher o e-mail corretamente
+E digitar uma senha incorreta
+Então o sistema deverá exibir a mensagem de erro "Error: the password you entered for the email address guilhermeacof@gmail.com is incorrect."
+
+----------------------------------------------------------------------------------------------------------------
+

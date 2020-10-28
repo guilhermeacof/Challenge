@@ -1,0 +1,8 @@
+--------------------------------------------------------
+1 - Desafio 2 - Realizar Login Sucesso
+
+Dado que o usuário realize login em My courses
+Quando digitado o email e senha corretamente
+Então o sistema deverá exibir a página de My Courses
+
+--------------------------------------------------------

@@ -1,0 +1,23 @@
+---------------------------------------------------------
+
+002 - Ver certificados
+
+Dado que o usuário já tenha realizado Login
+Quando pressionado em My Certificates
+Então o sistema deverá exibir a página de meus certificados com as opções abaixo:
+
+	Innovation Management Program
+	Design Thinking - Exam
+	Business Management Program
+	Mini-MBA Program
+	Digital Transformation - Exam
+	Change Management - Exam
+	Economics and International Business - Exam
+	Essential Management Skills - Exam
+	Marketing and Communications - Exam
+	Finance and Accounting - Exam
+	Strategy and Operations - Exam
+	Human Resource Management - Exam
+	Basics of Innovation Management - Exam
+
+---------------------------------------------------------
