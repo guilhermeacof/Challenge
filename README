@@ -1,0 +1,6 @@
+Desafio SQUADs
+
+Realizar o download do Projeto, abrir com o visual studio (Arquivo > Adicionas > Projeto Existente) a pasta repos.
+Os arquivos do desafio estão na pasta integration(executar de preferencia usando visual Studio e o cypress com o Edge)
+Arquivos sem o final ".js" são parte do desafio 1
+Arquivos com o final ".js" são o desafio 2 com base na escrita do desafio 1
