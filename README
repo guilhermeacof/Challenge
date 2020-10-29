@@ -2,10 +2,10 @@ Desafio SQUADs
 
 (Sistema Operacional Windows 10 x64)
 
-Realizar o download do Projeto, abrir com o visual studio (Arquivo > Adicionas > Projeto Existente) a pasta repos.
-Os arquivos do desafio estão na pasta integration(executar usando visual Studio e o cypress com o Edge)
-Arquivos sem o final ".js" são parte do desafio 1
-Arquivos com o final ".js" são o desafio 2 com base na escrita do desafio 1
-Executar o comando " npx cypress run " no terminal do visual studio.
-O cypress irá realizar os testes, salvas as evidências em vídeo em ...\source\repos\cypress\videos
-O relatório de teste será gerado automaticamente e salvo em ...\source\repos\cypress\report\mochawesome-report em formato html e poderão ser abertos pelo navegador.
+1. Realizar o download do Projeto, abrir com o visual studio (Arquivo > Adicionas > Projeto Existente) a pasta repos.
+2. Os arquivos do desafio estão na pasta integration(executar usando visual Studio e o cypress com o Edge)
+3. Arquivos sem o final ".js" são parte do desafio 1
+4. Arquivos com o final ".js" são o desafio 2 com base na escrita do desafio 1
+5. Executar o comando " npx cypress run " no terminal do visual studio.
+6. O cypress irá realizar os testes, salvas as evidências em vídeo em ...\source\repos\cypress\videos
+7. O relatório de teste será gerado automaticamente e salvo em ...\source\repos\cypress\report\mochawesome-report em formato html e poderão ser abertos pelo navegador.
