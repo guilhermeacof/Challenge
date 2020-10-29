@@ -70,6 +70,6 @@ describe('Desafio 2 - Certificado em nova aba', () => {
 
 	});
 
-
+	
 
 });
